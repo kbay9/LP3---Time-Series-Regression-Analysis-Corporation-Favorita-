@@ -4,7 +4,7 @@
 ## Summary
 | Code      | Name        | Published Article |  
 |-----------|-------------|:-------------:|
-| LP2       | Store sales - Time Series Forecast    |  [https://medium.com/@kobenaenyam/store-sales-analysis-and-forecast-d2554a62be40](/) | 
+| LP3       | Store sales - Time Series Forecast    |  [https://medium.com/@kobenaenyam/store-sales-analysis-and-forecast-d2554a62be40](/) | 
 --------------------------------------------------
 
 ## Project Description
