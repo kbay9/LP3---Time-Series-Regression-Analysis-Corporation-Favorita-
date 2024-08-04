@@ -1,4 +1,4 @@
-# LP2 - Favorita Store Sales - Time Series Forecast
+# LP3 - Favorita Store Sales - Time Series Forecast
 *This is a time series forecasting problem. In this project,  ML model is built to predict store sales on data from Corporation Favorita, a large Ecuadorian-based grocery retailer.*
 
 ## Summary
